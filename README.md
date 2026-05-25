@@ -1,16 +1,18 @@
-## Hi there 👋
+# hey, i'm Dawid 👋
 
-<!--
-**dgabka/dgabka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend most of my time in Neovim, pretending I enjoy debugging Nix configs.
 
-Here are some ideas to get you started:
+At work I build Node.js services and React frontends.  
+At home I run a small k8s homelab because apparently regular hobbies weren't complicated enough.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I like:
+- nix / nixos
+- neovim
+- kubernetes
+- self-hosting
+- backend stuff
+- fast CLIs and good DX
+
+Usually tinkering with infra, automating something unnecessary, or rewriting dotfiles again.
+
+Currently optimizing things that were probably fine already.
