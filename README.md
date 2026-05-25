@@ -8,10 +8,10 @@ At home I run a small k8s homelab because apparently regular hobbies weren't com
 Things I like:
 - nix / nixos
 - neovim
+- terminals, CLIs & tmux
 - kubernetes
 - self-hosting
 - backend stuff
-- fast CLIs and good DX
 
 Usually tinkering with infra, automating something unnecessary, or rewriting dotfiles again.
 
