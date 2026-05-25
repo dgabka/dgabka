@@ -2,7 +2,7 @@
 
 I spend most of my time in Neovim, pretending I enjoy debugging Nix configs.
 
-At work I build Node.js services and React frontends.  
+At work I ship Node.js services, React frontends, and a healthy amount of tooling, infra, and automation around them.
 At home I run a small k8s homelab because apparently regular hobbies weren't complicated enough.
 
 Things I like:
