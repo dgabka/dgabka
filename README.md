@@ -13,6 +13,6 @@ Things I like:
 - self-hosting
 - distributed systems
 
-Usually tinkering with infra, automating something unnecessary, or rewriting dotfiles again.
+Usually in a terminal, changing configs that were already fine.
 
-Currently optimizing things that were probably fine already.
+That's pretty much it.
