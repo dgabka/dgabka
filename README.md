@@ -11,7 +11,7 @@ Things I like:
 - terminals, CLIs & tmux
 - kubernetes
 - self-hosting
-- backend stuff
+- distributed systems
 
 Usually tinkering with infra, automating something unnecessary, or rewriting dotfiles again.
 
